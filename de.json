@@ -1,5 +1,5 @@
 {
-"name": "",
-"description": "",
-"welcome.message": ""
+    "description": "Es handelt sich um eine Testanwendung",
+    "name": "Willkommen bei meiner Test-App",
+    "welcome.message": "Willkommen bei meiner Test-App"
 }
