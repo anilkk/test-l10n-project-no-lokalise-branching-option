@@ -1,5 +1,5 @@
 {
-"name": "My test app",
-"description": "It is a test app",
-"welcome.message": "Welcome to my test app"
+    "description": "It is a test app",
+    "name": "My test app",
+    "welcome.message": "Welcome to my test app"
 }
